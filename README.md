@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+You found the collection of my spare time projects. 
+
+:black_nib: To get more than just the bare code, you can read a bout most of them in my blog [blog.schawe.me](https://blog.schawe.me/).
+
+:scientist: There might also be some code related to my research. You can find further information at [academic.schawe.me](https://academic.schawe.me/de/)
+
 <!--
 **surt91/surt91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
