@@ -11,6 +11,7 @@ You found the collection of my spare time projects.
 [![A fractal](img/fractal.webp)](https://github.com/surt91/AFractalADay)
 [![A graph](img/graph.webp)](https://github.com/surt91/AGraphADay)
 [![A perfect snake](img/snake.gif)](https://github.com/surt91/multiJSnake)
+[![A shortest tour](img/tsp.webp)](https://github.com/surt91/TSPview)
 
 <!--
 **surt91/surt91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
